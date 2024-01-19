@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;font-style: italic;
+}
+header h1{
+  margin: 10% 0% 0% 22%;
+  color: rgb(255, 255, 255);   position: fixed;
+}
+.vv{
+  background-repeat: no-repeat;
+   background-image: url(bg.jpg);
+   background-size: cover;
+    
+}
+#time{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 60%;
+    padding: 1% ;
+    margin: 18% 0 0 20%;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;position: fixed;color: rgb(255, 249, 255);
+ 
+}
+#text{
+    margin: 35% 46%;   position: fixed;
+}
+.dd{
+    position: absolute;margin: 30% 45%;color: wheat;
+}
